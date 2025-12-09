@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 
 ## Animated Stats Banner
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&bg_color=00000000\&hide_border=true\&rank_icon=github)
+![stats](https://github-readme-stats.vercel.app/api?username=mucha-coder\&show_icons=true\&bg_color=00000000\&hide_border=true\&rank_icon=github)
 
 ## Badges
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME)
+![GitHub followers](https://img.shields.io/github/followers/mucha-coder)
+![GitHub stars](https://img.shields.io/github/stars/mucha-coder)
 
 ## Contact
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/mucha-coder)
