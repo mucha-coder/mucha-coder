@@ -1,52 +1,25 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**mucha-coder/mucha-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python & Java Developer** based in Japan.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Time series forecasting (Stock Market)**
+- 🌱 I’m interested in **Machine Learning** and **Data Analysis**
+- 📫 How to reach me: https://www.youtube.com/@mucha_of_oppoi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there
+---
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&height=200\&text=Welcome\&fontAlign=50\&fontSize=60\&color=gradient)
-
-## Profile Overview
-
-[![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&include_all_commits=true\&count_private=true)]()
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)]()
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)]()
-
-## Contributions Heatmap
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=github)]()
-
-## Summary Cards
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME\&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME\&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME\&theme=github)
-
-## Animated Stats Banner
-
-![stats](https://github-readme-stats.vercel.app/api?username=mucha-coder\&show_icons=true\&bg_color=00000000\&hide_border=true\&rank_icon=github)
-
-## Badges
-
-![GitHub followers](https://img.shields.io/github/followers/mucha-coder)
-![GitHub stars](https://img.shields.io/github/stars/mucha-coder)
-
-## Contact
-
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/mucha-coder)
+### 🛠 Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+</p>
